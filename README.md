@@ -1,4 +1,4 @@
-# 🔍 Malicious Link Checker
+# 🔍 SECURE LINK ANALYZER
 
 A Flask web application that uses machine learning to predict whether a given URL is **malicious** or **legitimate** based on historical features.
 
