@@ -38,6 +38,7 @@ A Flask web application that uses machine learning to predict whether a given UR
 - **Deployment Ready**: Built for GitHub and future deployment
 
 ---
+📋 **Documentation:** Check out the official [Standard Operating Procedure (SOP)](Secure_Link_Analyzer_SOP.docx) for a deep dive into our data preprocessing, threshold logic, and Flask multi-model deployment pipeline.
 
 ## ⚙️ Run Locally
 
